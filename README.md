@@ -4,7 +4,7 @@ PROJECT COLAB LINK -> https://colab.research.google.com/drive/1qTRrE4pFduqgWMzbS
 
 
 
-<b>Description -></b> 
+# <b>Description -></b> 
 
 Built an application to detect diseases in crops by scanning their leaves.
 
