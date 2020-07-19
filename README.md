@@ -18,8 +18,6 @@ Model trained for 100 epocs with training time of 5-6 hr.
 
 <b>Dataset Used -> </b>
 
-Tomato Plant leaf with 6 diseases.
-
 https://drive.google.com/file/d/1NeJj7sZqIupFlzBwWtez4mmvmlNthFnc/view?usp=sharing
 
 
