@@ -2,10 +2,14 @@
 
 PROJECT COLAB LINK -> https://colab.research.google.com/drive/1qTRrE4pFduqgWMzbS52Mrxauw29MCezz#scrollTo=NKoPgmAC8kFc
 
+
 Description -> 
-Built an application to detect diseases in crops by scanning their leaves. 
+Built an application to detect diseases in crops by scanning their leaves.
+
 Convolutional neural network is used to develop and built the model for this project.
+
 Architecture of CNN is designed and developed from scratch,architecture is motivated from VGG 16.
+
 Model trained for 100 epocs with training time of 5-6 hr.
 
 Dataset Used -> 
