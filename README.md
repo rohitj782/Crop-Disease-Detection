@@ -1,6 +1,6 @@
 # Crop-Disease-Detection
 
-PROJECT COLAB LINK -> https://colab.research.google.com/drive/1qTRrE4pFduqgWMzbS52Mrxauw29MCezz#scrollTo=NKoPgmAC8kFc
+PROJECT COLAB LINK -> https://colab.research.google.com/drive/1qTRrE4pFduqgWMzbS52Mrxauw29MCezz#scrollTo=jpGn6Vv1NBYN
 
 
 
